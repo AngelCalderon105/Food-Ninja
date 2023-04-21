@@ -1,0 +1,24 @@
+{
+  "name": "food-ninja",
+  "version": "1.0.0",
+  "description": "A Tailwind Recipe Website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelCalderon105/Food-ninja.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelCalderon105/Food-ninja/issues"
+  },
+  "homepage": "https://github.com/AngelCalderon105/Food-ninja#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}
